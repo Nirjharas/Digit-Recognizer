@@ -7,6 +7,8 @@ Prerequisites for this:
 -Scikit-learn (version 0.19)
 -Matplotlib (version 2.2.2)
 
+<img width="854" alt="CNN Model" src="https://github.com/user-attachments/assets/b178771f-2cdd-4ca2-8624-8da4e874c226">
+
 This shows the use of a convolutional neural network model that was built and trained with Keras on top of Tensorflow.
 This first part I focused on Machine Learning model, parameters and results. The second part I explained how to deploy this model as an API.
 I trained the model on the MNIST dataset provided by Kaggle to produce good results in recognize handwritten digits.
